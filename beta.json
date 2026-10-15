@@ -1,8 +1,8 @@
 {
-  "versionCode": 20034,
+  "versionCode": 20052,
   "versionName": "0.2.0",
-  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/beta-2fba0919/calorie-monitor-0.2.0.apk",
-  "sha256": "18fc20bae4c191a24d257b285295c3332b4b4b9fcc552ac40d3b89a8966e4594",
-  "notes": "Merge pull request #238 from amt911/feat/label-ocr-multilingual\n\nfix(ocr): read real labels — layout, languages, columns, net weight\n",
-  "publishedAt": "2026-10-14T21:06:05Z"
+  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/beta-0977ab590/calorie-monitor-0.2.0.apk",
+  "sha256": "664fff35cd5189d6ec036328579007dafdca19c4cf9c0515b6df4ab31d1feddc",
+  "notes": "Merge pull request #245 from amt911/fix/summary-collapse-animation\n\nfix(home): collapsing an entry glides the one below up\n",
+  "publishedAt": "2026-10-15T20:01:17Z"
 }
