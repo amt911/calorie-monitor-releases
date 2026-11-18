@@ -1,8 +1,8 @@
 {
-  "versionCode": 30005,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/beta-967676d14/calorie-monitor-0.3.0.apk",
-  "sha256": "4623a5aa4b93099a4d4a5bb9d24289a053750b6f46e9b90fb138010df89e2cf4",
-  "notes": "Merge pull request #286 from amt911/docs/design-refresh-nov13\n\ndocs(design): refresh DESIGN.md — QR, code font, SwitchRow, missing photo, muscle map\n",
-  "publishedAt": "2026-11-16T19:38:19Z"
+  "versionCode": 30100,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/v0.3.1/calorie-monitor-0.3.1.apk",
+  "sha256": "f9a97159b8d5b272436ce8adc8d2314e40e9da0198de3f12978cccd3da3f6278",
+  "notes": "Merge pull request #289 from amt911/feat/photo-estimate\n\nfeat(away-meals): \"Con foto\" — estimate a meal eaten out from a photo\n",
+  "publishedAt": "2026-11-18T20:01:08Z"
 }

@@ -1,8 +1,8 @@
 {
-  "versionCode": 30000,
-  "versionName": "0.3.0",
-  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/v0.3.0/calorie-monitor-0.3.0.apk",
-  "sha256": "7a9476465a3be2c1ce5b37f915039cf36510d58256df61e9eec3e48c6b0661c5",
-  "notes": "Calorie Monitor 0.3.0\n\nWhat's new\n- Colour palettes: pick Baldosa, Añil, Botella, Almagre or Grafito.\n- Two-step verification: set it up with a QR code, keep recovery codes, enter a code at sign-in.\n- Forgot your password? Reset it from the sign-in screen, and verify your email from the app.\n- Redesigned sign-in, sign-up and profile screens.\n- New versions are announced even with the app closed.\n- Workouts: a 2D muscle map in the exercise editor, a calendar that marks your training days, sessions that prefill, pull to refresh, and machines with their brand. Machine notes are now kept per user.\n- Allergens are detected from the ingredients, whether scanned, typed or from OpenFoodFacts.\n- Tea bag servings, scaled to the amount of water.\n- Recipes: reorder the photos and choose the cover; recipe photos now sync to the server.\n- Edit or remove a habitual meal from its sheet.\n- Macro bars: drag to reorder, and many bars collapse neatly.\n- A sync badge on everything that syncs.\n\nImprovements\n- Faster and lighter app, with smoother scrolling in the food list.\n- Label scanning reads real labels better: more languages, columns and net weight, and ingredient lists no longer pick up nutrition table rows.\n- Reminders can run in the background, so battery savers don't hold them back.\n- Background sync waits until the battery is not low.\n- A smoother price chart, and value per € counts the whole pack.\n\nFixes\n- The server is no longer shown as offline when it is up.\n- Rows the server lost are recreated or cleaned up instead of getting stuck.\n- Swipe actions no longer fire during fast scrolls.\n- A recipe whose photo no longer exists says so.\n- Scanning a barcode while editing a food works, the serving can be changed when editing an entry, and the undo message can be dismissed.\n- Your diary is kept out of device backups, and personal data out of logs.\n- Many smaller interface fixes on the home screen.\n\n",
-  "publishedAt": "2026-11-14T10:49:48Z"
+  "versionCode": 30100,
+  "versionName": "0.3.1",
+  "apkUrl": "https://github.com/amt911/calorie-monitor-releases/releases/download/v0.3.1/calorie-monitor-0.3.1.apk",
+  "sha256": "f9a97159b8d5b272436ce8adc8d2314e40e9da0198de3f12978cccd3da3f6278",
+  "notes": "Merge pull request #289 from amt911/feat/photo-estimate\n\nfeat(away-meals): \"Con foto\" — estimate a meal eaten out from a photo\n",
+  "publishedAt": "2026-11-18T20:01:08Z"
 }
